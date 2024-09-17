@@ -6,9 +6,9 @@
     "custom": "true"
   },
   {
-    "name": "! KAM!!",
+    "name": "! KAMS FAQ",
     "image": "/assets/media/icons/help_center_googlefonts.png",
-    "link": "",
+    "link": "discord.gg/himmothy",
     "categories": ["all"]
   },
   {
@@ -35,6 +35,12 @@
     "name": "BuzzFeed Quizzes",
     "link": "https://www.buzzfeed.com/quizzes",
     "image": "/assets/media/icons/buzzfeed.webp",
+    "categories": ["all"]
+  },
+  {
+        "name": "Myinstants Soundboard",
+    "link": "https://www.myinstants.com/en/categories/sound%20effects/",
+    "image": "/assets/media/icons/redbutton.jpeg",
     "categories": ["all"]
   },
   {
@@ -453,8 +459,3 @@
   }
 ]
   {
-    "name": "Myinstants Soundboard",
-    "link": "https://www.myinstants.com/en/categories/sound%20effects/",
-    "image": "/assets/media/icons/redbutton.jpeg",
-    "categories": ["all"]
-  },
