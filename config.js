@@ -9,6 +9,7 @@ const config = {
     // You can add multiple users by doing username: 'password'.
     Kam: "kamisbetter",
     Everett: "everett",
+        Bobby: "Thebigbobbyai",
     
   },
 };
