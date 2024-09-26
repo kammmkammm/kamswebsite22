@@ -1,5 +1,5 @@
-npm install -D expo-cli
-
-npx expo build:web
-
+# Install Expo CLI
 npm install -g expo-cli
+
+# Run the build command
+expo build:web
