@@ -172,14 +172,14 @@ document.addEventListener("DOMContentLoaded", event => {
 });
 // Splash texts
 const SplashT = [
-  "Kam is the best lil sigma",
+  "Agent is the best lil sigma",
   "Fastest growing proxy server",
-  "Made by Kam",
+  "Made by Agent",
   "I have so much aura",
   "Thanks for using the site",
   "Follow us on Tiktok (@smartschoolboy9)",
   "Subscribe to us on YouTube (@smartschoolboy9)",
-  "Subscribe to my Youtube (@kamisrizzy)",
+  "Subscribe to my Youtube (@Agentisrizzy)",
   "Check out the settings page",
   "RIzz rizz rizz (i want to js become alpha)",
 ];
