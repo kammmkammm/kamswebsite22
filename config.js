@@ -9,6 +9,11 @@ const config = {
     // You can add multiple users by doing username: 'password'.
     
 CloverLogin: "1234",
+    kamdon: "kamdon",
+    Briella: "Briella",
+    Kam: "Kam",
+    Gio: "Gio",
+    Everett: "Everett",
     
   },
 };
